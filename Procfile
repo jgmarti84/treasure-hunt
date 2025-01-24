@@ -1,1 +1,1 @@
-web: gunicorn treasurehunt.wsgi
+web: gunicorn core.wsgi
